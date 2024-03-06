@@ -15,6 +15,7 @@ The goal of this repo is to empower your data engineering growth journey with re
 - [Building Microservices](https://samnewman.io/books/building_microservices_2nd_edition/)
 - [Building Evolutionary Architectures](https://www.oreilly.com/library/view/building-evolutionary-architectures/9781491986356/)
 - [Domain-Driven Design](https://www.oreilly.com/library/view/domain-driven-design-tackling/0321125215/)
+- [Cracking The Coding Interview](https://www.crackingthecodinginterview.com/)
 
 ## Papers
 
