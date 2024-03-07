@@ -12,10 +12,12 @@ The goal of this repo is to empower your data engineering growth journey with re
 - [Machine Learning Engineering](https://www.mlebook.com/wiki/doku.php)
 - [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
 - [Machine Learning Design Patterns](https://www.oreilly.com/library/view/machine-learning-design/9781098115777/)
+- [Fundamentals of Software Architecture](https://fundamentalsofsoftwarearchitecture.com/)
 - [Building Microservices](https://samnewman.io/books/building_microservices_2nd_edition/)
 - [Building Evolutionary Architectures](https://www.oreilly.com/library/view/building-evolutionary-architectures/9781491986356/)
 - [Domain-Driven Design](https://www.oreilly.com/library/view/domain-driven-design-tackling/0321125215/)
 - [Cracking The Coding Interview](https://www.crackingthecodinginterview.com/)
+- [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/)
 
 ## Papers
 
