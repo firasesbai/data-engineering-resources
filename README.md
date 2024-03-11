@@ -17,6 +17,8 @@ The goal of this repo is to empower your data engineering growth journey with re
 - [Building Evolutionary Architectures](https://www.oreilly.com/library/view/building-evolutionary-architectures/9781491986356/)
 - [Domain-Driven Design](https://www.oreilly.com/library/view/domain-driven-design-tackling/0321125215/)
 - [Cracking The Coding Interview](https://www.crackingthecodinginterview.com/)
+- [System Design Interview: Volume 1](https://www.goodreads.com/en/book/show/54109255)
+- [System Design Interview: Volume 2](https://www.goodreads.com/en/book/show/60631342)
 - [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/)
 
 ## Papers
