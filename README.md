@@ -23,6 +23,7 @@ The goal of this repo is to empower your data engineering growth journey with re
 
 ## Papers
 
+- [The Hadoop Distributed File System](https://pages.cs.wisc.edu/~akella/CS838/F16/838-CloudPapers/hdfs.pdf)
 - [Delta Lake: High-Performance ACID Table Storage over Cloud Object Stores](https://www.databricks.com/wp-content/uploads/2020/08/p975-armbrust.pdf)
 - [Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics](https://www.databricks.com/sites/default/files/2020/12/cidr_lakehouse.pdf)
 
