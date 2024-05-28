@@ -31,3 +31,7 @@ The goal of this repo is to empower your data engineering growth journey with re
 
 - [The Rise of the Data Engineer](https://medium.com/free-code-camp/the-rise-of-the-data-engineer-91be18f1e603)
 - [Functional Data Engineering](https://maximebeauchemin.medium.com/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
+
+## Guides
+
+- [Google’s Code Review Guidelines](https://google.github.io/eng-practices/review/)
