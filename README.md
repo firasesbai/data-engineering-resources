@@ -35,3 +35,4 @@ The goal of this repo is to empower your data engineering growth journey with re
 ## Guides
 
 - [Google’s Code Review Guidelines](https://google.github.io/eng-practices/review/)
+- [Gitlab Handbook: Enterprise Data Team](https://handbook.gitlab.com/handbook/enterprise-data/)
