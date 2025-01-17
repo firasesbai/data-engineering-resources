@@ -37,3 +37,4 @@ The goal of this repo is to empower your data engineering growth journey with re
 
 - [Google’s Code Review Guidelines](https://google.github.io/eng-practices/review/)
 - [Gitlab Handbook: Enterprise Data Team](https://handbook.gitlab.com/handbook/enterprise-data/)
+- [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
